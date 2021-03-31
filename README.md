@@ -9,9 +9,8 @@
 <a href="https://www.linkedin.com/in/tatiane-weitzel/" target="_blank">
 <img src="https://img.shields.io/badge/Tatiane Weitzel-ff6e95.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-<a href="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weitzeltati@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-ff6e95.svg?&style=flat-square&logo=Gmail&logoColor=white" alt="G-mail">
-</a>
+
+[![Gmail Badge](https://img.shields.io/badge/-weitzeltati@gmail.com-ff6e95?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weitzeltati@gmail.com)](mailto:weitzeltati@gmail.com)
 
 
 
